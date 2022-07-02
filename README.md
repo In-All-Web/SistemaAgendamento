@@ -1,10 +1,10 @@
 # Sistema de Agendamento
 
 ## Objetivos principais:
-Marcações/eventos.
-Gestão monetária.
-Gestão de lojas.
-Gestão pessoal.
+- Marcações/eventos.
+- Gestão monetária.
+- Gestão de lojas.
+- Gestão pessoal.
 
 1- O que o projeto faz?
 

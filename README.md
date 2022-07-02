@@ -1,4 +1,4 @@
-# SistemaAgendamento
+# Sistema de Agendamento
 
 ## Objetivos principais:
 Marcações/eventos.

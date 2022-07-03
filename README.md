@@ -50,6 +50,16 @@
 
 <p>O sistema deverá ter como funções:</p>
 
+<!--### Em tabela-->
+| Agenda Online | Gestão | Marketing Integrado | Ponto de Venda | Métodos de pagamento | Sistema de faturação | Google review |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Página de marcações | Empresa | Venda de serviços e produtos | MBWay | Integraçção com Moloni | | |
+| Marcações 24/7 | Estabelecimentos | Gestão de stock | Cartão de crédito (Stripe) | | | |
+| Geolocalização | Equipas | | | | | |
+| Lembrete de SMS | Clientes | | | | | |
+| | Estatísticas | | | | | |
+<!--
+### Em lista
 - Agenda online
   - Página de marcações
   - Marcações 24/7
@@ -71,7 +81,7 @@
 - Sistema de faturação 
   - Integraçção com Moloni
 - Google review
-
+-->
 <!-- Em Desenvolvimento -->
 ## Planos para o produto
 

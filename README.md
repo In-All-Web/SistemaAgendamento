@@ -61,11 +61,15 @@
   - Clientes
   - Estatísticas
 - Marketing integrado
+- Ponto de venda
+  - Venda de serviços e produtos
+  - Gestão de stock
 - Métodos de pagamento
   - MBWay
   - Cartão de crédito (Stripe)
-- Ponto de venda
-- Google review 
+- Sistema de faturação 
+  - Integraçção com Moloni
+- Google review
 
 ## Perguntas
 

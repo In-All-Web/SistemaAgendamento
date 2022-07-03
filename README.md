@@ -3,24 +3,18 @@
 Este projeto visa ajudar todos os profissionais a gerir melhor as marcações e eventos que têm no seu negócio.
 
 ## O sistema:
-1- Agenda online
-2- Página de marcações
-3- Gestão da empresa
-4- Gestão de equipas
-5- Gestão de clientes
-6- Lembrete de SMS
-7- Estatísticas
-8- Marcações 24/7
-9- Marketing integrado
-10- Pagamentos MBWay.
-11- Ponto de venda
-12- Google review
-13 
-
-## Principas concorrentes
-
-
-
+- Agenda online
+- Página de marcações
+- Gestão da empresa
+- Gestão de equipas
+- Gestão de clientes
+- Lembrete de SMS
+- Estatísticas
+- Marcações 24/7
+- Marketing integrado
+- Pagamentos MBWay.
+- Ponto de venda
+- Google review 
 
 ## Objetivos principais:
 - Marcações/eventos.
@@ -38,3 +32,34 @@ Este projeto visa ajudar todos os profissionais a gerir melhor as marcações e 
 4- Onde os usuários podem obter ajuda com o projeto?
 
 5- Quem mantém e contribui com o projeto?
+
+## Principas concorrentes
+
+### Bemarca
+Marca portuguesa
+- <a href="https://www.bemarca.pt/home">Bemarca</a>
+#### Preçario
+- <a href="https://www.bemarca.pt/home#price">Preços</a>
+### Redes Sociais
+- <a href="https://www.instagram.com/bemarca.pt/">Instagram</a>
+
+### Buk
+Marca portuguesa
+- <a href="https://buk.pt/">Buk</a>
+#### Preçario
+- <a href="https://buk.pt/">Preços (Final da página)</a>
+### Redes Sociais
+- <a href="https://www.instagram.com/buk.pt/">Instagram</a>
+
+### Booksy
+Marca internacional
+- <a href="https://booksy.com/biz/pt-pt/">Booksy</a>
+#### Preçario
+- <a href="https://booksy.com/biz/pt-pt/pricing.html">Preços</a>
+### Redes Sociais
+- <a href="https://www.instagram.com/booksybiz/">Booksy Biz</a>
+- <a href="https://www.instagram.com/booksybrasil/">Brasil</a>
+- <a href="https://www.instagram.com/booksyflorida/">Florida</a>
+- <a href="https://www.instagram.com/booksyspain/">Espanha</a>
+- <a href="https://www.instagram.com/booksyuk/">UK</a>
+- <a href="https://www.instagram.com/booksyappuk/">App UK</a>

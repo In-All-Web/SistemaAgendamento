@@ -1,6 +1,39 @@
 # Sistema de Agendamento
 
 Este projeto visa ajudar todos os profissionais a gerir melhor as marcações e eventos que têm no seu negócio.
+Para além disso tem como objetivo ajudar na própria gestão do estabelecimento e equipa.
+Para os clientes torna-se um aplicativo imprescindível no que toca a encontrar os melhores profissionais na àrea de estética, podem encontrar o mais perto e melhor profissional.
+
+## Desenvolvimento
+Os planos de desenvolvimento poderão seguir caminhos diferentes com a evolução do projeto.
+
+### Objetivos
+O objetivo é ser um projeto multiplataforma e responsivo a todos os dispositivos.
+Assim sendo será um projeto SAAS e posteriormente haverá uma aplicação mobile.
+
+### Tecnologias
+As tecnologias para o desenvolvmento foram escolhidas visando os objetivos do mesmo.
+
+#### SAAS
+Tendo em conta os objetivos para começar o desenvolvimento da parte SAAS iremos desenvolver com:
+
+##### Front-End
+- HTML
+- CSS
+- JavaScript
+- Bootstrap/Tailwind
+- Next.JS
+
+##### Back-End
+- JavaScript
+- Node.JS
+- Express.JS
+- Next.JS
+- MongoDB
+
+#### Mobile
+A aplicação mobile deverá ser desenvolvida para Android e IOS por isso usaremos o:
+- React-Native
 
 ## O sistema:
 - Agenda online

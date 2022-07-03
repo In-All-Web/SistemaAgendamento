@@ -6,6 +6,7 @@ Este projeto visa ajudar todos os profissionais a gerir melhor as marcações e 
 - Agenda online
 - Página de marcações
 - Gestão da empresa
+- Gestão de estabelecimentos
 - Gestão de equipas
 - Gestão de clientes
 - Lembrete de SMS
@@ -16,12 +17,7 @@ Este projeto visa ajudar todos os profissionais a gerir melhor as marcações e 
 - Ponto de venda
 - Google review 
 
-## Objetivos principais:
-- Marcações/eventos.
-- Gestão monetária.
-- Gestão de lojas.
-- Gestão pessoal.
-- Satisfação.
+## Perguntas
 
 1- O que o projeto faz?
 

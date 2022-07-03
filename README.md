@@ -1,65 +1,69 @@
 # Sistema de Agendamento
 
-Este projeto visa ajudar todos os profissionais a gerir melhor as marcações e eventos que têm no seu negócio.
-Para além disso tem como objetivo ajudar na própria gestão do estabelecimento e equipa.
-Para os clientes torna-se um aplicativo imprescindível no que toca a encontrar os melhores profissionais na àrea de estética, podem encontrar o mais perto e melhor profissional.
+<p>Este projeto visa ajudar todos os profissionais a gerir melhor as marcações e eventos que têm no seu negócio.</p>
+<p>Para além disso tem como objetivo ajudar na própria gestão do estabelecimento e equipa.</p>
+<p>Para os clientes torna-se um aplicativo imprescindível no que toca a encontrar os melhores profissionais na àrea de estética, podem encontrar o mais perto e melhor profissional.</p>
 
 ## Desenvolvimento
-Os planos de desenvolvimento poderão seguir caminhos diferentes com a evolução do projeto.
+<p>Os planos de desenvolvimento poderão seguir caminhos diferentes com a evolução do projeto.</p>
 
 ### Objetivos
-O objetivo é ser um projeto multiplataforma e responsivo a todos os dispositivos.
-Assim sendo será um projeto SAAS e posteriormente haverá uma aplicação mobile.
+<p>O objetivo é ser um projeto multiplataforma e responsivo a todos os dispositivos.</p>
+<p>Assim sendo será um projeto SAAS e posteriormente haverá uma aplicação mobile.</p>
 
 ### Tecnologias
-As tecnologias para o desenvolvmento foram escolhidas visando os objetivos do mesmo.
+<p>As tecnologias para o desenvolvmento foram escolhidas visando os objetivos do mesmo.</p>
 
 #### SAAS
-Tendo em conta os objetivos para começar o desenvolvimento da parte SAAS iremos desenvolver com:
+<p>Tendo em conta os objetivos para começar o desenvolvimento da parte SAAS iremos desenvolver com:</p>
 
 ##### Front-End
 <div style="display: inline_block">
-  <img align="center" alt="Dany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dany-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dany-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Dany-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Dany-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dany-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-   <img align="center" alt="Dany-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Dany-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dany-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dany-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dany-TS" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Dany-Tailwindcss" title="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Dany-Bootstrap" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Dany-React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dany-Nextjs" title="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
 
 ##### Back-End
 <div style="display: inline_block">
-  <img align="center" alt="Dany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dany-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dany-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Dany-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Dany-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img align="center" alt="Dany-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" alt="Dany-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dany-TS" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Dany-Nodejs" title="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Dany-Expressjs" title="Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="Dany-Nextjs" title="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img align="center" alt="Dany-Jamstack" title="Jamstack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg"/>          
+  <img align="center" alt="Dany-MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div>
 
 #### Mobile
-A aplicação mobile deverá ser desenvolvida para Android e IOS por isso usaremos o:
+<p>A aplicação mobile será desenvolvida para Android e IOS por isso iremos desenvolver com:</p>
 <div style="display: inline_block">
-  <img align="center" alt="Dany-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dany-ReactNative" title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
 
 ## O sistema:
-O sistema deverá ter como funções:
+<p>O sistema deverá ter como funções:</p>
 
 - Agenda online
-- Página de marcações
-- Gestão da empresa
-- Gestão de estabelecimentos
-- Gestão de equipas
-- Gestão de clientes
-- Lembrete de SMS
-- Estatísticas
-- Marcações 24/7
+  - Página de marcações
+  - Marcações 24/7
+  - Geolocalização
+  - Lembrete de SMS
+- Gestão:
+  - Empresa
+  - Estabelecimentos
+  - Equipas
+  - Clientes
+  - Estatísticas
 - Marketing integrado
-- Pagamentos MBWay.
+- Métodos de pagamento
+  - MBWay
+  - Cartão de crédito (Stripe)
 - Ponto de venda
 - Google review 
 

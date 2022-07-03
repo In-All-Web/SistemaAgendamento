@@ -47,6 +47,7 @@
  </div>
 
 ## O sistema:
+
 <p>O sistema deverá ter como funções:</p>
 
 - Agenda online
@@ -70,6 +71,13 @@
 - Sistema de faturação 
   - Integraçção com Moloni
 - Google review
+
+<!-- Em Desenvolvimento -->
+## Planos para o produto
+
+| Plano 1 | Plano 2 | Plano 3|
+|-|-|-|
+| Serviços | Serviços |Serviços |
 
 ## Perguntas
 

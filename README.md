@@ -131,3 +131,5 @@ Marca internacional
 - <a href="https://www.instagram.com/booksyspain/">Espanha</a>
 - <a href="https://www.instagram.com/booksyuk/">UK</a>
 - <a href="https://www.instagram.com/booksyappuk/">App UK</a>
+#
+  <p align="center">© 2022 In All Web LDA. Todos os direitos reservados</p>

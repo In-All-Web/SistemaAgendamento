@@ -83,7 +83,7 @@
 - Google review
 -->
 <!-- Em Desenvolvimento -->
-## Planos para o produto
+## Planos de venda
 
 | Plano 1 | Plano 2 | Plano 3|
 |-|-|-|

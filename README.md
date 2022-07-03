@@ -4,6 +4,10 @@
 <p>Para além disso tem como objetivo ajudar na própria gestão do estabelecimento e equipa.</p>
 <p>Para os clientes torna-se um aplicativo imprescindível no que toca a encontrar os melhores profissionais na àrea de estética, podem encontrar o mais perto e melhor profissional.</p>
 
+#
+## Índice
+<!-- A ser desenvolvido-->
+
 ## Desenvolvimento
 <p>Os planos de desenvolvimento poderão seguir caminhos diferentes com a evolução do projeto.</p>
 
@@ -45,7 +49,8 @@
 <div style="display: inline_block">
   <img align="center" alt="Dany-ReactNative" title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
-
+ 
+#
 ## O sistema:
 
 <p>O sistema deverá ter como funções:</p>
@@ -83,12 +88,15 @@
 - Google review
 -->
 <!-- Em Desenvolvimento -->
+
+#
 ## Planos de venda
 
 | Plano 1 | Plano 2 | Plano 3|
 |-|-|-|
 | Serviços | Serviços |Serviços |
 
+#
 ## Perguntas
 
 1- O que o projeto faz?
@@ -101,6 +109,7 @@
 
 5- Quem mantém e contribui com o projeto?
 
+#
 ## Principas concorrentes
 
 ### Bemarca
